@@ -14,6 +14,6 @@ public class PojoToInjectImpl implements IPojoToInject{
 
 	@Override
 	public String toString() {
-		return "Feitooooo!!"+s.length();
+		return "Value of String instance in PojoToInjectImpl = "+s;
 	}
 }
